@@ -1,4 +1,4 @@
-# My Awesome Securitu tools
+# My Awesome Security tools
 My curated list of security tools for my own usage.
 
 ## Web
