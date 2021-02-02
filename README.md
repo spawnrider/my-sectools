@@ -1,5 +1,5 @@
-# my-sectools
-My curated list of security tools
+# My Awesome Securitu tools
+My curated list of security tools for my own usage.
 
 ## Web
 * **Nikto** : Web Server scanner - https://github.com/sullo/nikto
