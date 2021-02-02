@@ -23,3 +23,6 @@ My curated list of security tools
 * **Clair** : Vulnerability Static Analysis - https://github.com/quay/clair
 * **Dive** : Exploring docker layers - https://github.com/wagoodman/dive
 * **Dlayer** : Another docker layer analyzer - https://github.com/orisano/dlayer
+
+## Database 
+* **Sqlmap** : Automatic SQL injection and database takeover tool - https://github.com/sqlmapproject/sqlmap
