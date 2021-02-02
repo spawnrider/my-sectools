@@ -7,6 +7,15 @@ My curated list of security tools
 ## Mobile
 * **MobSF** : SAST/DAST security tools for Android/iOS mobiles - https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
+## OS 
+* **Lynis** : Security auditing tool for Linux - https://github.com/CISOfy/lynis
+
+## Cloud
+* **ScoutSuite** : Security auditing tool for Cloud envs - https://github.com/nccgroup/ScoutSuite
+* **Azucar** : Security auditing tool for Azure - https://github.com/nccgroup/azucar/
+* **Prowler** : Security auditing tool for AWS - https://github.com/toniblyx/prowler
+
+
 ## Docker
 * **Trivy** : Vulnerability scanner - https://github.com/aquasecurity/trivy
 * **Clair** : Vulnerability Static Analysis - https://github.com/quay/clair
