@@ -27,3 +27,6 @@ My curated list of security tools
 
 ## Database 
 * **Sqlmap** : Automatic SQL injection and database takeover tool - https://github.com/sqlmapproject/sqlmap
+
+## Dev / Source code 
+* **Semgrep** : Lightweight static analysis for many languages - https://github.com/returntocorp/semgrep 
