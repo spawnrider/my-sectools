@@ -4,7 +4,7 @@ My curated list of security tools
 ## Web
 * **Nikto** : Web Server scanner - https://github.com/sullo/nikto
 * **Spyse** : Online web security tool / scanner - https://spyse.com/
-* **Qualys SSL Labs** : SSL auditing toolo - https://www.ssllabs.com/ssltest/
+* **Qualys SSL Labs** : SSL checking/auditing tool - https://www.ssllabs.com/ssltest/
 
 ## Mobile
 * **MobSF** : SAST/DAST security tools for Android/iOS mobiles - https://github.com/MobSF/Mobile-Security-Framework-MobSF
