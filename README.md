@@ -30,3 +30,11 @@ My curated list of security tools
 
 ## Dev / Source code 
 * **Semgrep** : Lightweight static analysis for many languages - https://github.com/returntocorp/semgrep 
+
+# Awesome security lists 
+Others security tools lists :
+* https://github.com/paragonie/awesome-appsec
+* https://github.com/sbilly/awesome-security
+* https://github.com/qazbnm456/awesome-web-security
+
+
